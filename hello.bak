@@ -1,0 +1,9 @@
+program hello;
+
+uses crt;
+
+
+BEGIN
+        WRITELN ('hello world');
+        READLN;
+END.
